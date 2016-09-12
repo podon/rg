@@ -12,6 +12,6 @@ version          IO.read(File.join(File.dirname(__FILE__), 'VERSION'))
 end
 
 
-%w{ chef_nginx build-essential ohai runit yum yum-epel zypper  }.each do |depend|
+%w{ chef_nginx build-essential ohai runit yum yum-epel zypper ruby_build }.each do |depend|
   depends depend
 end
