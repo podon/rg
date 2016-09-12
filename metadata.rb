@@ -1,5 +1,5 @@
 name             'rg'
-maintainer       'Peter O'Donovan'
+maintainer       'Peter O\'Donovan'
 maintainer_email 'peterrobertodonovan@gmail.com'
 description      'RG Test'
 license          'All rights reserved'
