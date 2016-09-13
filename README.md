@@ -9,7 +9,7 @@ Requirements
 --------------
  OSX or Linux distro. 
 
- Ruby 
+ Ruby > 2.0
 
  Bundler
 
