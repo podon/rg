@@ -21,7 +21,9 @@ How do you run this?
 `$ kitchen coverge default`
 
 Browse to http://172.16.1.111
+
 ...
+
 Profit
 
 Don't forget the clean up!
