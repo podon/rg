@@ -8,7 +8,10 @@ You can change the network adapater IP/Port by modifying the .kitchen.yml file.
 Requirements
 --------------
  OSX or Linux distro. 
+
  Ruby 
+
+ Bundler
 
 How do you run this?
 --------------
