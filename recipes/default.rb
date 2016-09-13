@@ -7,6 +7,9 @@
 # All rights reserved - Do Not Redistribute
 #
 
+execute 'update-sources' do
+  command 'apt-get update -y'
+end
+
 include_recipe "chef_nginx"
-include_recipe "ruby_build"
 include_recipe "rg::unicorn"
