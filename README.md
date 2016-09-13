@@ -5,6 +5,8 @@ Chef cookbook to deploy the simple-sinatra-app on Ubuntu-16.04. Test-kitchen + v
 
 You can change the network adapater IP/Port by modifying the .kitchen.yml file. 
 
+Requires OSX or Linux distro. Not tested on Windows 
+
 How do you run this?
 --------------
 `$ git clone https://github.com/podon/rg`
